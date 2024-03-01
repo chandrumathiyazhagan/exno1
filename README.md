@@ -32,14 +32,14 @@ import pandas as pd
 df=pd.read_csv('/content/SAMPLEIDS.csv')
 df
 ```
-OUTPUT:
+## OUTPUT:
 
 ![Screenshot 2024-03-01 154736](https://github.com/chandrumathiyazhagan/exno1/assets/119393023/4e49fcac-4e45-4609-9919-6efd2045f70d)
 ### 2) Display head
 ```python
 df.head()
 ```
-OUTPUT:
+# OUTPUT:
 
 ![Screenshot 2024-03-01 154809](https://github.com/chandrumathiyazhagan/exno1/assets/119393023/756af652-2e9c-4f75-8f04-7087b30789b4)
 ### 3) Display tail
