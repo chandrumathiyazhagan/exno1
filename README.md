@@ -1,5 +1,5 @@
 # Exno:1
-Data Cleaning Process
+Data Cleaning Process.
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
@@ -92,5 +92,6 @@ OUTPUT:
 
 ![Screenshot 2024-03-01 155150](https://github.com/chandrumathiyazhagan/exno1/assets/119393023/582708d0-abc7-4c18-8c89-5698d2b80ef3)
 
-# Result
-         The data cleaning has beeen done successfully.
+### Result
+
+The data cleaning has beeen done successfully.
