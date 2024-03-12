@@ -92,6 +92,10 @@ df.fillna(0)
 
 ![Screenshot 2024-03-01 155150](https://github.com/chandrumathiyazhagan/exno1/assets/119393023/582708d0-abc7-4c18-8c89-5698d2b80ef3)
 
+![1](https://github.com/chandrumathiyazhagan/exno1/assets/119393023/647a6dad-37f3-4b12-81de-1dd0cafb2c6f)
+
+![2](https://github.com/chandrumathiyazhagan/exno1/assets/119393023/afafb5e5-ef43-40c7-83a2-37bcee3bfb2c)
+
 ### Result
 
 The data cleaning has beeen done successfully.
